@@ -1,0 +1,62 @@
+.escopo{
+  text-align: center;
+}
+
+.title{
+  font-size: 500%;
+  color: black;
+}
+
+.container{
+  background-color:rgb(254, 244, 247);
+}
+
+.content{
+  margin-top: 3%;
+  margin-left: 13%;
+  margin-right: 13%;
+  margin-bottom: 2%;
+}
+
+p, ul{
+  text-align: justify;
+  font-size: 18px;
+}
+
+h1{
+  font-size: 200%;
+}
+
+.figure{
+  text-align: center;
+}
+
+.footer{
+  background-color: rgb(247, 229, 205);
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-top: 2px solid;
+  border-color:darksalmon;
+}
+
+.image{
+  height: 100px;
+  width: 130px;
+}
+
+tr:hover {background-color:rgb(243, 209, 165);}
+
+th{
+    transition: all 0.5s;
+    cursor: pointer;
+}
+
+th:hover{
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
+}
+
+td{
+  text-align: justify;
+}
